@@ -12,10 +12,13 @@
 </div>
  <br/>
  
-
+ <div align="left">
+  <a href="https://github.com/Waltergonfilho">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Leoid84&show_icons=true&theme=tokyonight&count_private=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leoid84&theme=merko&hide_border=false&&layout=compact"/>
+  </a>
+</div>
  
-![Leandro GitHub stats](https://github-readme-stats.vercel.app/api?username=Leoid84&show_icons=true&theme=tokyonight&count_private=true)
-
 
 ## Tecnologias que eu utilizo.
 
