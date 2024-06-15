@@ -1,7 +1,7 @@
 ### Olá, eu sou Leandro Gonçalves 🖐️
-- 🧑‍💻 Front-end Developer.
+- 🧑‍💻 Full Stack Developer.
 - 📅 Atualmente trabalho como frelancer.
-- 🌱 Estudando novas tecnologias como React.js e vue.js .
+- 🌱 Cursando Análise e Desenvolvimento de Sistemas.
 
 <br/>
 <div> 
@@ -29,8 +29,11 @@
   <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img align="center" alt="jquery" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
   <img align="center" alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img align="center" alt="php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white&Color=white" />
   <img align="center" alt="wp" src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
+  <img align="center" alt="php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white&Color=white" />
+  <img align="center" alt="wp" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img align="center" alt="wp" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+
 </div><br/>
   
   
